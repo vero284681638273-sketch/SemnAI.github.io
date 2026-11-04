@@ -1,0 +1,2 @@
+# SemnAI.github.io
+SemnAI
